@@ -1,0 +1,138 @@
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\System.Collections.Immutable.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\System.Reflection.Metadata.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe.config
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll.config
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Job Offers Website.pdb
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\EntityFramework.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Web.Infrastructure.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Owin.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Razor.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\WebGrease.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.pdb
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\EntityFramework.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Razor.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.xml
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.InitialCreate.resources
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.AddColumn.resources
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.AddCategoryTable.resources
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.AddJobsTable.resources
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.ApplyForJobs.resources
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.EditJobModel.resources
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\obj\Release\Job Offers Website.csproj.GenerateResource.Cache
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\obj\Release\Job Offers Website.dll
+D:\Divers\Tutos\à charger\Job Offers Website\Job Offers Website\obj\Release\Job Offers Website.pdb
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\csc.exe
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\System.Collections.Immutable.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\System.Reflection.Metadata.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\vbc.exe
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\roslyn\VBCSCompiler.exe.config
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll.config
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Job Offers Website.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Job Offers Website.pdb
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\EntityFramework.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Owin.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Razor.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\WebGrease.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Antlr3.Runtime.pdb
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\EntityFramework.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\EntityFramework.SqlServer.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Core.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Cookies.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.Google.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Microsoft.Owin.Security.OAuth.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\Newtonsoft.Json.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Optimization.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Razor.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Deployment.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Webpages.Razor.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Helpers.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\bin\System.Web.Mvc.xml
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\obj\Release\Job Offers Website.csprojResolveAssemblyReference.cache
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.InitialCreate.resources
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.AddColumn.resources
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.AddCategoryTable.resources
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.AddJobsTable.resources
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.ApplyForJobs.resources
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\obj\Release\Job_Offers_Website.Migrations.EditJobModel.resources
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\obj\Release\Job Offers Website.csproj.GenerateResource.Cache
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\obj\Release\Job Offers Website.dll
+J:\faculty\projects\MVC.NET\Job Offers Website\Job Offers Website\Job Offers Website\obj\Release\Job Offers Website.pdb
